@@ -54,9 +54,9 @@
         <td>1<sup>st </sup>-August-2024</td>
         <td>Thursday</td>
         <td>7:00 To 9:00 Pm.</td>
-        <td>It will be introduction class.</td>
-        <td>Not Added yet.</td>
-        <td><a href="https://github.com/Zainkhan25">Zain Khan</a></td>
+        <td>Introuduction To Programming, What is Mern Stack, Html Strucutre, Install Vs Code.</td>
+        <td><a href="https://github.com/ZAINKHAN25/Apex-Town-Learning-B-01/blob/main/Html%20%26%20Css/Slides/First%20Class%20(Introduction%20To%20Course)..pdf">Slides.</a></td>
+        <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
      </tr>
 </tbody>
 <table>
