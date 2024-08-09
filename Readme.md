@@ -59,12 +59,21 @@
         <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
      </tr>
      <tr>
-        <td>02: </td>
+        <td>02</td>
         <td>7<sup>th</sup>-August-2024</td>
         <td>Wednesday</td>
         <td>6:00 To 8:00 Pm.</td>
-        <td>Html Chaptor 1, 2, and 3</td>
-        <td><a href="https://github.com/ZAINKHAN25/Apex-Town-Learning-B-01/blob/main/Html%20%26%20Css/Slides/First%20Class%20(Introduction%20To%20Course).pdf">Slides.</a></td>
+        <td>Abdullah was not at home.</td>
+        <td></td>
+        <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
+     </tr>
+     <tr>
+        <td>03</td>
+        <td>9<sup>th</sup>-August-2024</td>
+        <td>Friday</td>
+        <td>7:00 To 9:00 Pm.</td>
+        <td>Html Chaptor 1, 2, 3.</td>
+        <td></td>
         <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
      </tr>
 </tbody>
