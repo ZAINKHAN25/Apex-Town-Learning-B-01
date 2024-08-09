@@ -72,7 +72,7 @@
         <td>9<sup>th</sup>-August-2024</td>
         <td>Friday</td>
         <td>7:00 To 9:00 Pm.</td>
-        <td>Html Chaptor 1, 2, 3.</td>
+        <td>Html Chaptor 1, 2, 3</td>
         <td></td>
         <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
      </tr>
