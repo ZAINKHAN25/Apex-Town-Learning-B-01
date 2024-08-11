@@ -82,7 +82,7 @@
         <td>Saturday</td>
         <td>6:00 To 8:00 Pm.</td>
         <td>Heading's , paragraph, bold, italic, br, hr, sup, sub, blockquote, quotation, abbreviation, insert, delete tags etc</td>
-        <td><a href="https://github.com/ZAINKHAN25/Apex-Town-Learning-B-01/blob/main/Html%20%26%20Css/Code/index.html">Slides.</a></td>
+        <td><a href="https://github.com/ZAINKHAN25/Apex-Town-Learning-B-01/blob/main/Html%20%26%20Css/Code/index.html">Code.</a></td>
         <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
      </tr>
 </tbody>
