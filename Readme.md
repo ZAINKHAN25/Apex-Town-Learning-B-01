@@ -87,9 +87,6 @@
 </tbody>
 <table>
 
-<br />
-<br />
-
 # Week 02
 
 <table>
