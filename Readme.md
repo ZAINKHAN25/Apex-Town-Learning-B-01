@@ -19,8 +19,6 @@
         <li>Stripe (Payment Integration).</li>
 </ol>
 
-
-
 # Trainer:
 
 <table >
@@ -38,6 +36,7 @@
 <table>
 
 # Week 01
+
 <table>
     <tbody>
      <tr>
@@ -83,6 +82,38 @@
         <td>6:00 To 8:00 Pm.</td>
         <td>Heading's , paragraph, bold, italic, br, hr, sup, sub, blockquote, quotation, abbreviation, insert, delete tags etc</td>
         <td><a href="https://github.com/ZAINKHAN25/Apex-Town-Learning-B-01/blob/main/Html%20%26%20Css/Code/index.html">Code.</a></td>
+        <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
+     </tr>
+</tbody>
+<table>
+
+<br />
+<br />
+
+# Week 02
+
+<table>
+    <tbody>
+     <tr>
+        <th>S/no: </th>
+        <th>Date: </th>
+        <th>Day: </th>
+        <th>Timing: </th>
+        <th>Topic: </th>
+        <th>Material: (Github)</th>
+        <th>Trainer</th>
+     </tr>
+     <tr>
+        <td>05: </td>
+        <td>12<sup>th</sup>-August-2024</td>
+        <td>Monday</td>
+        <td>7:00 To 8:30 Pm.</td>
+        <td>Chaptor: Learning</td>
+        <td>
+        <!-- <a href="https://github.com/ZAINKHAN25/Apex-Town-Learning-B-01/blob/main/Html%20%26%20Css/Slides/First%20Class%20(Introduction%20To%20Course).pdf">
+         Slides.
+        </a> -->
+        </td>
         <td><a href="https://github.com/Zainkhan25">Zain Khan.</a></td>
      </tr>
 </tbody>
